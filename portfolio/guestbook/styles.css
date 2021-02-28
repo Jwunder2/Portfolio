@@ -1,0 +1,37 @@
+
+body {
+    background-color:#b0b8b4ff;
+    color:#FC766aFF;
+}
+
+.err {
+    color:darkred;
+    display:none;
+}
+
+.border {
+    border: 2px solid #b0b8b4ff!important;
+}
+
+#main
+{
+    background-color:#184a45ff;
+    margin:auto;
+}
+
+h1 {
+    text-align:center;
+}
+
+#mailText {
+    display:none;
+}
+
+#mailHTML{
+    display:none;
+}
+
+#other
+{
+    display:none;
+}

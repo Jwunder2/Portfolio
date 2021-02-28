@@ -1,0 +1,48 @@
+html {
+    height:100%;
+}
+
+body {
+    height:100%;
+    background: #a2836e;
+}
+
+#education {
+    background-color:#d9ad7c;
+    border-bottom:5px solid #674d3c;
+}
+
+#main {
+    background: #d9ad7c;
+}
+
+img {
+    margin:20px;
+}
+
+#header{
+    border-bottom:5px solid #674d3c;
+}
+
+#header li {
+    list-style-type: none;
+}
+
+#education li {
+    list-style-type: square;
+}
+
+#skills {
+    background-color:#d9ad7c;
+    border-bottom:5px solid #674d3c;
+}
+
+
+#Experience {
+    background-color:#d9ad7c;
+    border-bottom:5px solid #674d3c;
+}
+
+#Experience li {
+    list-style-type: square;
+}
